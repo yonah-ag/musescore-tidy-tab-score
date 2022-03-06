@@ -18,7 +18,8 @@ See https://github.com/yonah-ag/musescore-tidy-tab-score/blob/main/LICENSE
 ### Installation
 
 This plugin requires version 3.6.x of MuseScore.  
-Download TidyTabScore.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
+Download TidyTabScore.qml then follow the handbook instructions:  
+https://musescore.org/en/handbook/3/plugins
 
 ### Using the Plugin
 
