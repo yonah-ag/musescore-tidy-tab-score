@@ -3,15 +3,15 @@
 A MuseScore plugin to tidy tablature scores by applying these changes:
 
 + In voices 1 and 2
-  + Set rests, stems, hooks & beams to a preset colour
+  + Set rests, stems, hooks & beam elements to a preset colour
   + Set the vertical offset position of rests
 + In voices 3 and 4
-  + Hide rests, stems, hooks and beams
+  + Hide rests, stems, hooks and beam elements
 
 The settings can be changed by editing the plugin properties in TidyTabScore.qml
-+ property var inkElm : "#A0A0A0"; // element ink colour
-+ property var offRest0 : -4; // Offset for voice 1 rests
-+ property var offRest1 : 4.5; // Offset for voice 2 rests
++ property var **inkElm** : "#A0A0A0"; // element ink colour
++ property var **offRest0** : -4; // Offset for voice 1 rests
++ property var **offRest1** : 4.5; // Offset for voice 2 rests
 
 ### License
 
