@@ -8,6 +8,11 @@ A MuseScore plugin to tidy tablature scores by applying these changes:
 + In voices 3 and 4
   + Hide rests, stems, hooks and beams
 
+The settings can be changed by editing the plugin properties in TidyTabScore.qml
++ property var inkElm : "#A0A0A0"; // element ink colour
++ property var offRest0 : -4; // Offset for voice 1 rests
++ property var offRest1 : 4.5; // Offset for voice 2 rests
+
 ### License
 
 Copyright (C) 2022 yonah_ag
