@@ -29,7 +29,9 @@ https://musescore.org/en/handbook/3/plugins
 ### Using the Plugin
 
 From the **Plugins** menu select **Tidy Tab Score**.
- 
+
+![01](https://github.com/yonah-ag/musescore-tidy-tab-score/blob/main/images/TidyTab01.png)
+
 ### Additional Info
 
 Link to official MuseScore Project page for this plugin:  
