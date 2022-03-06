@@ -26,8 +26,8 @@ MuseScore
    menuPath: "Plugins.Tidy Tab Score";
    
    property var inkElm : "#A0A0A0"; // element ink colour
-   property var offRest0 : -4 // Offset for voice 1 rests
-   property var offRest1 : 4.5 // Offset for voice 2 rests
+   property var offRest0 : -4; // Offset for voice 1 rests
+   property var offRest1 : 4.5; // Offset for voice 2 rests
    
    function inkElement(element, voice) {
       if(element.type == Element.CHORD) {
