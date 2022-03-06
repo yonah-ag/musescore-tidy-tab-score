@@ -35,3 +35,4 @@ From the **Plugins** menu select **Tidy Tab Score**.
 ### Additional Info
 
 Link to official MuseScore Project page for this plugin:  
+https://musescore.org/en/project/tidy-tab-score
